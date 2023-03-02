@@ -16,7 +16,7 @@ html {
     background-color:white ;
     width: 30rem;
     display: flex;
-    margin-top: 20rem;
+    margin-top: 10rem;
     flex-direction: column;
     justify-content:space-between;
     border-radius: 4%;
