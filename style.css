@@ -16,11 +16,11 @@ html {
     background-color:white ;
     width: 30rem;
     display: flex;
-    margin-top: 20rem;
+    margin-top: 30rem;
     flex-direction: column;
     justify-content:space-between;
     border-radius: 4%;
-    height: 60vh;
+    height: 50vh;
     box-shadow:0.5rem 1rem 1rem hsl(220, 15%, 55%); ;
     
 }
